@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: July 27, 2020
+
+**Today's Progress**: Started the 100 Days Of Code Challenge by forking the repo and updating the log. Learned how to push changes in using VS Code and created a tentative roadmap of the challenge in Notion.
+
+**Thoughts:** The Markdown syntax is pleasant to deal with (the simplicity of the heading hierarchy is simple yet effective). VS Code is a lot more robust than I thought what with its ability to handle version control. Hope I can make it through this challenge! I've always had a lot of trouble sticking and committing to my self-learning initiatives and projects so when I heard about a challenge that's specifically for people who tend to shift focus like me. The premise of the challenge is simple and its easy enough to get started.
+
+**Link to work:** [Learning Roadmap](https://www.notion.so/6718fff81f0e4e699563a22e05826eef?v=d92ae18b60424512b9be5b0614b5d1bd)
+
+<!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +35,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
