@@ -8,6 +8,13 @@
 
 **Link to work:** [Learning Roadmap](https://www.notion.so/6718fff81f0e4e699563a22e05826eef?v=d92ae18b60424512b9be5b0614b5d1bd)
 
+### Day 1: July 28, 2020
+
+**Today's Progress**: Did some freeCodeCamp challenges for Javascript from the Basic Javascript track from "Golf Code" to "Record Collection". Learned mostly on `switch` statements, Javascript object notations, access and property notations.
+
+**Thoughts**: Javascript has an easily confusable way to access its objects either via the dot notation (e.g. myObject.myProperty) and the more robust (e.g. myObject\[myProperty\]), which lead to some difficulty when tackling "Record Collection". Specifically, what's important for me to remember is that variable names are not accessible via the dot notation and only by the square bracket notation. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
