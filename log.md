@@ -12,7 +12,15 @@
 
 **Today's Progress**: Did some freeCodeCamp challenges for Javascript from the Basic Javascript track from "Golf Code" to "Record Collection". Learned mostly on `switch` statements, Javascript object notations, access and property notations.
 
-**Thoughts**: Javascript has an easily confusable way to access its objects either via the dot notation (e.g. myObject.myProperty) and the more robust (e.g. myObject\[myProperty\]), which lead to some difficulty when tackling "Record Collection". Specifically, what's important for me to remember is that variable names are not accessible via the dot notation and only by the square bracket notation. 
+**Thoughts**: Javascript has an easily confusable way to access its objects either via the dot notation (e.g. myObject.myProperty) and the more robust square bracket notation (e.g. myObject\[myProperty\]), which lead to some difficulty when tackling "Record Collection". Specifically, what's important for me to remember is that variable names are not accessible via the dot notation and only by the square bracket notation. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 2: July 29, 2020
+
+**Today's Progress**: Continued more freeCodeCamp challenges focusing on loops, recursion and the ternary operator.
+
+**Thoughts**: Good refresher on all the content, as the syntax is mostly as it is in Java. Going to study more on some prerequisite knowledge on recursion (from [this](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-use-recursion-to-create-a-countdown/305925) freeCodeCamp forum post) before continuing on to the next challenge to ensure I'm well equipped to tackle the problem.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 <!--### Day 0: February 30, 2016 (Example 1)
