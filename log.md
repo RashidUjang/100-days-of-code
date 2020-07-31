@@ -1,18 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 27, 2020
+### Day 3: July 31, 2020
 
-**Today's Progress**: Started the 100 Days Of Code Challenge by forking the repo and updating the log. Learned how to push changes in using VS Code and created a tentative roadmap of the challenge in Notion.
+**Today's Progress**: Finished up the freeCodeCamp recursion lessons, and started learning ES6 Javascript syntax such as arrow functions, let and const keywords and destructuring syntax,
 
-**Thoughts:** The Markdown syntax is pleasant to deal with (the simplicity of the heading hierarchy is simple yet effective). VS Code is a lot more robust than I thought what with its ability to handle version control. Hope I can make it through this challenge! I've always had a lot of trouble sticking and committing to my self-learning initiatives and projects so when I heard about a challenge that's specifically for people who tend to shift focus like me. The premise of the challenge is simple and its easy enough to get started.
-
-**Link to work:** [Learning Roadmap](https://www.notion.so/6718fff81f0e4e699563a22e05826eef?v=d92ae18b60424512b9be5b0614b5d1bd)
-
-### Day 1: July 28, 2020
-
-**Today's Progress**: Did some freeCodeCamp challenges for Javascript from the Basic Javascript track from "Golf Code" to "Record Collection". Learned mostly on `switch` statements, Javascript object notations, access and property notations.
-
-**Thoughts**: Javascript has an easily confusable way to access its objects either via the dot notation (e.g. myObject.myProperty) and the more robust square bracket notation (e.g. myObject\[myProperty\]), which lead to some difficulty when tackling "Record Collection". Specifically, what's important for me to remember is that variable names are not accessible via the dot notation and only by the square bracket notation. 
+**Thoughts**: Made some good progress on understanding recursion (it's starting to 'click'!) and ES6 seems to have many features that revolve around manipulating objects and arrays and generally a good addition to make any web developer's life easier. Being able to use the destructuring assignment in the parameter of a function seems shockingly easy. Loving that flexibility to manipulate an object's content.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
@@ -23,6 +15,23 @@
 **Thoughts**: Good refresher on all the content, as the syntax is mostly as it is in Java. Going to study more on some prerequisite knowledge on recursion (from [this](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-use-recursion-to-create-a-countdown/305925) freeCodeCamp forum post) before continuing on to the next challenge to ensure I'm well equipped to tackle the problem.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 1: July 28, 2020
+
+**Today's Progress**: Did some freeCodeCamp challenges for Javascript from the Basic Javascript track from "Golf Code" to "Record Collection". Learned mostly on `switch` statements, Javascript object notations, access and property notations.
+
+**Thoughts**: Javascript has an easily confusable way to access its objects either via the dot notation (e.g. myObject.myProperty) and the more robust square bracket notation (e.g. myObject\[myProperty\]), which lead to some difficulty when tackling "Record Collection". Specifically, what's important for me to remember is that variable names are not accessible via the dot notation and only by the square bracket notation. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 0: July 27, 2020
+
+**Today's Progress**: Started the 100 Days Of Code Challenge by forking the repo and updating the log. Learned how to push changes in using VS Code and created a tentative roadmap of the challenge in Notion.
+
+**Thoughts:** The Markdown syntax is pleasant to deal with (the simplicity of the heading hierarchy is simple yet effective). VS Code is a lot more robust than I thought what with its ability to handle version control. Hope I can make it through this challenge! I've always had a lot of trouble sticking and committing to my self-learning initiatives and projects so when I heard about a challenge that's specifically for people who tend to shift focus like me. The premise of the challenge is simple and its easy enough to get started.
+
+**Link to work:** [Learning Roadmap](https://www.notion.so/6718fff81f0e4e699563a22e05826eef?v=d92ae18b60424512b9be5b0614b5d1bd)
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
