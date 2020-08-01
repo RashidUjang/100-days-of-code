@@ -1,14 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 3: July 31, 2020
+### Day 4: 1 August, 2020
 
-**Today's Progress**: Finished up the freeCodeCamp recursion lessons, and started learning ES6 Javascript syntax such as arrow functions, let and const keywords and destructuring syntax,
+**Today's Progress**: Finished up the ES6 modules covering string literals, classes, Promises and exports, the entire debugging module and also the some data structures.
+
+**Thoughts**: Promises are a stand out to me as something to delve deeper into. Exports seemed to have been born out of a necessity to cater for server-side Javascript logic. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 3: 31 July, 2020
+
+**Today's Progress**: Finished up the freeCodeCamp recursion lessons, and started learning ES6 Javascript syntax such as arrow functions, let and const keywords and destructuring syntax.
 
 **Thoughts**: Made some good progress on understanding recursion (it's starting to 'click'!) and ES6 seems to have many features that revolve around manipulating objects and arrays and generally a good addition to make any web developer's life easier. Being able to use the destructuring assignment in the parameter of a function seems shockingly easy. Loving that flexibility to manipulate an object's content.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
-### Day 2: July 29, 2020
+### Day 2: 29 July, 2020
 
 **Today's Progress**: Continued more freeCodeCamp challenges focusing on loops, recursion and the ternary operator.
 
@@ -16,7 +24,7 @@
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
-### Day 1: July 28, 2020
+### Day 1: 28 July, 2020
 
 **Today's Progress**: Did some freeCodeCamp challenges for Javascript from the Basic Javascript track from "Golf Code" to "Record Collection". Learned mostly on `switch` statements, Javascript object notations, access and property notations.
 
@@ -24,7 +32,7 @@
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
-### Day 0: July 27, 2020
+### Day 0: 27 July, 2020
 
 **Today's Progress**: Started the 100 Days Of Code Challenge by forking the repo and updating the log. Learned how to push changes in using VS Code and created a tentative roadmap of the challenge in Notion.
 
