@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: 2 August, 2020
+
+**Today's Progress**: Finished up the data structures module on the Javascript track.
+
+**Thoughts**: I'm wondering what the performance are for these atomic operations such as `slice`, `splice` and `indexOf()` and if there are any downsides to using the built-in methods.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 4: 1 August, 2020
 
-**Today's Progress**: Finished up the ES6 modules covering string literals, classes, Promises and exports, the entire debugging module and also the some data structures.
+**Today's Progress**: Finished up the ES6 modules covering string literals, classes, Promises and exports, the entire debugging module and also some data structures.
 
 **Thoughts**: Promises are a stand out to me as something to delve deeper into. Exports seemed to have been born out of a necessity to cater for server-side Javascript logic. 
 
@@ -12,7 +20,7 @@
 
 **Today's Progress**: Finished up the freeCodeCamp recursion lessons, and started learning ES6 Javascript syntax such as arrow functions, let and const keywords and destructuring syntax.
 
-**Thoughts**: Made some good progress on understanding recursion (it's starting to 'click'!) and ES6 seems to have many features that revolve around manipulating objects and arrays and generally a good addition to make any web developer's life easier. Being able to use the destructuring assignment in the parameter of a function seems shockingly easy. Loving that flexibility to manipulate an object's content.
+**Thoughts**: Made some good progress on understanding recursion (it's starting to 'click'!) and ES6 seems to have many features that revolve around manipulating objects and arrays and generally a good addition to make any web developer's life easier. Being able to use the destructuring assignment in the parameter of a function seems shockingly easy. Loving that flexibility to manipulate an object's representation.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
