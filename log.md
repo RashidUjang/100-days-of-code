@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: 3 August, 2020
+
+**Today's Progress**: Worked through 5 algorithm challenges in the Javascript module. Revised some HTML & CSS materials by going through [this](https://www.youtube.com/watch?v=ZeDP-rzOnAA) tutorial for a responsive websote using vanilla HTML & CSS. 
+
+**Thoughts**: The myriad of ways that you can solve the same problem is interesting. The `.map()` and `.reduce()` functions are seemingly often used in these kinds of challenges and I'm going to look more into that. Flexbox's `align-items` and `justify-content` seem to be its most important properties.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 5: 2 August, 2020
 
 **Today's Progress**: Finished up the data structures module on the Javascript track.
