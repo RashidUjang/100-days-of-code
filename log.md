@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: 5 August, 2020
+
+**Today's Progress**: Continued the Algorithm Challenges in the Javascript module.
+
+**Thoughts**: `.splice()` methods are the easiest way to delete values in an array. Javascript has a concept of 'falsy' values, which is something foreign coming from strongly typed languages.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 6: 3 August, 2020
 
-**Today's Progress**: Worked through 5 algorithm challenges in the Javascript module. Revised some HTML & CSS materials by going through [this](https://www.youtube.com/watch?v=ZeDP-rzOnAA) tutorial for a responsive websote using vanilla HTML & CSS. 
+**Today's Progress**: Worked through 5 algorithm challenges in the Javascript module. Revised some HTML & CSS materials by going through [this](https://www.youtube.com/watch?v=ZeDP-rzOnAA) tutorial for a responsive website using vanilla HTML & CSS. 
 
 **Thoughts**: The myriad of ways that you can solve the same problem is interesting. The `.map()` and `.reduce()` functions are seemingly often used in these kinds of challenges and I'm going to look more into that. Flexbox's `align-items` and `justify-content` seem to be its most important properties.
 
