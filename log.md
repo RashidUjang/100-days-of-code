@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 7: 5 August, 2020
+### Day 8: 5 August, 2020
+
+**Today's Progress**: Finished the Algorithm Challenges in the Javascript module.
+
+**Thoughts**: Learned about the `.sort()` function for arrays.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 7: 4 August, 2020
 
 **Today's Progress**: Continued the Algorithm Challenges in the Javascript module.
 
