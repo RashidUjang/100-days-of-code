@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: 6 August, 2020
+
+**Today's Progress**: Finished revising HTML & CSS from the video in Day 6. Learned about Media Queries briefly and started on the Flexbox module in CSS.
+
+**Thoughts**: Creating a responsive website seems to be a lot more manual than I thought and requires a degree of experimentation and eyeballing. Flexbox is such a dynamic tool that it its enough to just use it to create beautiful and dynamic layouts without having to resort to frameworks.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 8: 5 August, 2020
 
 **Today's Progress**: Finished the Algorithm Challenges in the Javascript module.
