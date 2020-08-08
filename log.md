@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: 8 August, 2020
+
+**Today's Progress**: Finished the CSS Flex and Responsive Web Design module and started on the CSS Grid module.
+
+**Thoughts**: The freeCodeCamp modules on Media Queries, Flex and Grid seem to only teach the basics and not the real world use. Will have to explore real-world use cases on my own.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 9: 6 August, 2020
 
 **Today's Progress**: Finished revising HTML & CSS from the video in Day 6. Learned about Media Queries briefly and started on the Flexbox module in CSS.
