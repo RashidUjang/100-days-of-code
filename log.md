@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: 9 August, 2020
+
+**Today's Progress**: Learnt about `border-box`, revised some elements on Forms to recreate the HTML & CSS [Form Validator](https://vanillawebprojects.com/projects/form-validator/) from the 20 Vanilla Web Projects.
+
+**Thoughts**: Applying some of the previously learned materials from the freeCodeCamp modules to an actual mini-project is cementing them much better. My initial thought for the best way to perform the validation on the fields would be via regex. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+[Form Validator]()
+
 ### Day 10: 8 August, 2020
 
 **Today's Progress**: Finished the CSS Flex and Responsive Web Design module and started on the CSS Grid module.
