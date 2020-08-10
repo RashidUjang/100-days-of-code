@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: 10 August, 2020
+
+**Today's Progress**: Went through about 75% of the Javascript Regex module and worked on the Form Validator project a little bit.
+
+**Thoughts**: Basic regex as a concept is not a hard topic to grasp but requires some revising due to the amount of different meanings of common character symbols.
+
 ### Day 11: 9 August, 2020
 
 **Today's Progress**: Learnt about `border-box`, revised some elements on Forms to recreate the HTML & CSS [Form Validator](https://vanillawebprojects.com/projects/form-validator/) from the 20 Vanilla Web Projects.
