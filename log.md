@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 13: 11 August, 2020
+
+**Today's Progress**: Finished the frontend for Form Validator and started going through [TraversyMedia's DOM tutorial](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s) on Youtube.
+
+**Thoughts**: Happy with the outcome of the Form Validator's frontend (though I wish the form validation text could have a little more animation to it such as Airtable's registration page where it slides the other elements down when there's an error) and the DOM manipulation techniques will help in completing this mini-project. Looking around for the error in form validations at various major tech companies' landing pages shows that there is currently no best practice in displaying the error as they are all different. I've also started to thinking about hosting the mini-projects that I'm doing as a site, but I'm still considering the options as I may want to involve Django in the project and there's no free hosting for that.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+[Form Validator]()
+
 ### Day 12: 10 August, 2020
 
 **Today's Progress**: Went through about 75% of the Javascript Regex module and worked on the Form Validator project a little bit.
 
 **Thoughts**: Basic regex as a concept is not a hard topic to grasp but requires some revising due to the amount of different meanings of common character symbols.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
 ### Day 11: 9 August, 2020
 
