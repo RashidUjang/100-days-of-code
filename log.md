@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: 12 August, 2020
+
+**Today's Progress**: Finished 2 parts of the TraversyMedia's DOM tutorial.
+
+**Thoughts**: DOM methods are straightforward and easy to use. Having the `querySelector` method in vanilla Javascript will allow me to work with my preferred syntax without having to include any external JQuery libraries. Learnt the difference on the `window`, `document` and `screen` objects in Javascript too.
+
+**Link to work:** N/A
+
 ### Day 13: 11 August, 2020
 
 **Today's Progress**: Finished the frontend for Form Validator and started going through [TraversyMedia's DOM tutorial](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s) on Youtube.
