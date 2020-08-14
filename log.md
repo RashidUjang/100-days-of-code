@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 16: 14 August, 2020
+
+**Today's Progress**: Finished part 3 and halfway through part of TraversyMedia's DOM tutorial.
+
+**Thoughts**: Events are an important part of respnsive Javascript and is anothe piece of the puzzle when sending/grabbing data from the front-end to send to the back-end.
+
+**Link to work:** [Item List Adder and Deleter]()
+
+### Day 15: 13 August, 2020
+
+**Today's Progress**: Started work on a project to implement an application progress tracker from an available open source repository (found [here](https://github.com/NigelOToole/progress-tracker)) and converting it to fit my project's needs.
+
+**Thoughts**: The design of the progress tracker has to be modified to include a curve if the number of progress markers exceed 6 and that the overflow would appear at the right instead of the left (as is the default behaviour of `flex-wrap`). This is also my first exposure to SASS, and right now it seems like a no-brainer to pick this up after getting used to the basics of CSS. Variables, mixins and able to define expressions to calculate a certain value are powerful features that CSS should have in the first place.
+
+**Link to work:** [Progress Tracker with Curve]()
+
 ### Day 14: 12 August, 2020
 
 **Today's Progress**: Finished 2 parts of the TraversyMedia's DOM tutorial.
