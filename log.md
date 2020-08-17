@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 18: 17 August, 2020
+
+**Today's Progress**: Completed the Regex module on freeCodeCamp and started on the Intermediate Algorithm Challenges.
+
+**Thoughts**: On my quest to complete the algorithm challenges, I've learnt about the `Set` and `Array.concat()` methods which help in manipulating arrays. Makes you wonder what is the efficiency of the methods that developers implement for replacement in languages that do not have these helper functions built-in.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 17: 16 August, 2020
+
+**Today's Progress**: Completed the Object-Oriented Module from freeCodeCamp
+
+**Thoughts**: Working backwords after learning ES6, the `class` and `constructor` keywords make Javascript a better object-oriented language and be more syntactically similar to the statically typed languages like C++ or Java of which I am more familiar with.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 16: 14 August, 2020
 
 **Today's Progress**: Finished part 3 and halfway through part of TraversyMedia's DOM tutorial.
