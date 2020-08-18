@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: 18 August, 2020
+
+**Today's Progress**: Started doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: Learnt about the `.includes()` method for arrays. Also found that a better way to solve these algorithm challenges is to outline what needs to be done in a step-by-step way, and only then to think of the functions that would be useful to achieve those steps. Structured thinking is the enemy of inefficiency.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 18: 17 August, 2020
 
 **Today's Progress**: Completed the Regex module on freeCodeCamp and started on the Intermediate Algorithm Challenges.
