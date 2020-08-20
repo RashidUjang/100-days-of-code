@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: 19 August, 2020
+
+**Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: Learnt the `.filter()` method. It's an elegent way of modifying an array without the need to use a `for` loop to iterate through the contents of the array. Also learnt some methods to convert to and from ASCII characters with some `String` methods.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 19: 18 August, 2020
 
 **Today's Progress**: Started doing the Intermediate Algorithm Challenges on freeCodeCamp.
