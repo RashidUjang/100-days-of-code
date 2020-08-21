@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 22: 21 August, 2020
+
+**Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: The Array methods `.map()`, `.filter()` and `.reduce()` seems to be applicable to be used in most Javascript algorithm problems. They eliminate the need of looping through the array and I intend to exclusively use these methods when solving Javascript problems.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 21: 20 August, 2020
+
+**Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: Having to deal with primes, the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) is an interesting topic. Some sort of visualizer for these would be a cool side project to learn the `canvas` elements on.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 20: 19 August, 2020
 
 **Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
