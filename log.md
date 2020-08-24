@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24: 24 August, 2020
+
+**Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: I am wondering what use does Object-oriented Javascript have and if it is really necesssary if it used in a front-end context.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 23: 23 August, 2020
+
+**Today's Progress**: Completed the CSS Grid and continued development on form validator.
+
+**Thoughts**: Implementing the logic of the form validator is all fine, but obviously in a real world application the validation would have to happen server-side. The topic of user authentication is something I can look into in the future.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 22: 21 August, 2020
 
 **Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
