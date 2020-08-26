@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 26: 26 August, 2020
+
+**Today's Progress**: Completed the Intermediate Algorithm Challenge on freeCodeCamp and started on the HTML Tribute Page Challenge.
+
+**Thoughts**: Regex is beginning to click, especially the capture groups and character classes. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
+### Day 25: 25 August, 2020
+
+**Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
+
+**Thoughts**: They're mostly done except for Regex challenges. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 24: 24 August, 2020
 
 **Today's Progress**: Continued doing the Intermediate Algorithm Challenges on freeCodeCamp.
