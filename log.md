@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: 27 August, 2020
+
+**Today's Progress**: Finished the HTML Tribute Page Challenge and started on the Build a Survey Form challenge.
+
+**Thoughts**: HTML has a lot of boilerplate code that needs to be entered all the time. The `max-width` property seems to be good for responsive layout. 
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 26: 26 August, 2020
 
 **Today's Progress**: Completed the Intermediate Algorithm Challenge on freeCodeCamp and started on the HTML Tribute Page Challenge.
