@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: 28 August, 2020
+
+**Today's Progress**: Finished the Survey Form Challenge and Product Page Challenge and started work on the Technical Documentation challenge.
+
+**Thoughts**: Currently for the sake of finishing the challenges on freeCodeCamp I've only set up the skeletons on the projects on Codepen and submitted it. However, after finishing all, I will choose one of five of the projects given to be expanded upon and to complete the front-end of it and possibly even the Javascript and backend.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 27: 27 August, 2020
 
 **Today's Progress**: Finished the HTML Tribute Page Challenge and started on the Build a Survey Form challenge.
