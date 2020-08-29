@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29: 29 August, 2020
+
+**Today's Progress**: Finished the rest of the HTML and CSS Responsive Web Design Projects.
+
+**Thoughts**: Next up would be to complete the Survey Form.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 28: 28 August, 2020
 
 **Today's Progress**: Finished the Survey Form Challenge and Product Page Challenge and started work on the Technical Documentation challenge.
