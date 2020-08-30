@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 30: 30 August, 2020
+
+**Today's Progress**: Spent time working on the Product Landing Page.
+
+**Thoughts**: Learned a lot about images and resizing them (`max-width` comes in handy when dealing with these images!) and also perhaps the best way I've found so far to resize images automatically. Creating these layouts is also a good refresher on all HTML & CSS. I am to start learning Bootstrap and Bulma for any future products other than this to be more efficient.
+
+**Link to work:** [Product Landing Page]()
+
 ### Day 29: 29 August, 2020
 
 **Today's Progress**: Finished the rest of the HTML and CSS Responsive Web Design Projects.
 
-**Thoughts**: Next up would be to complete the Survey Form.
+**Thoughts**: Next up would be to complete the Product Landing Page.
 
 **Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
 
