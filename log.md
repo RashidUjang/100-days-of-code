@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 31: 31 August, 2020
+
+**Today's Progress**: Spent more time working on the Product Landing Page, specifically in tidying up the margins, paddings and card look.
+
+**Thoughts**: It is a smarter move to plan ahead the design so as not to waste time during the coding sessions. The fidelity of the mockup need not be up until the margins and paddings level, but a rough colour/page layout/images to use would be very beneficial so that I can straight away jump to the implementation.
+
+**Link to work:** [Product Landing Page]()
+
 ### Day 30: 30 August, 2020
 
 **Today's Progress**: Spent time working on the Product Landing Page.
