@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 32: 2 September, 2020
+
+**Today's Progress**: Started the Functional Programming module in freeCodeCamp
+
+**Thoughts**: Functional Programming is an interesting topic that heavily emphasizes functions (of course!) and has concepts such as pure functions that do not introduce what is termed as *side effects* or changes to the state. Definitely excited to learn more and quite amazed that using the built-in functions in Javascript such as `.slice()` instead of `.splice()` which modifies the array is already following the Functional Programming paradigm. My idea of Functional Programming was something that could only be done with languages such as Clojure, Scala or Elixir.
+
+**Link to work:** [freeCodeCamp Portfolio](https://www.freecodecamp.org/rashidujang)
+
 ### Day 31: 31 August, 2020
 
 **Today's Progress**: Spent more time working on the Product Landing Page, specifically in tidying up the margins, paddings and card look.
