@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 34: 4 September, 2020
+
+**Today's Progress**: Learnt the basics of Bootstrap, most notably its Container and Grid system.
+
+**Thoughts**: As I'm already somewhat familiar with the Bootstrap system what with using MaterializeCSS for one of my projects before, learning more about how Bootstrap actually works with the Media Queries on the `min-width` and setting a set with for the container for two breakpoints was userful in understanding how to make a responsive layout.
+
+### Day 33: 3 September, 2020
+
+**Today's Progress**: Continued the Functional Programming module in freeCodeCamp
+
+**Thoughts**: One of the challenges mentioned that `.reduce()` is simply a generalization of `.map()`, which is quite shocking to learn. I've to find out more about this.
+
 ### Day 32: 2 September, 2020
 
 **Today's Progress**: Started the Functional Programming module in freeCodeCamp
