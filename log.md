@@ -1,20 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 37: 8 September, 2020
+
+**Today's Progress**: Continued working on the front-end of the To-do App.
+
+**Thoughts**: Learnt about the `outline` CSS property and the difference between that and `border`. Surprised to learn that Bootstrap has its own icon set in SVG too. Dove a bit more in-depth on the difference between the pseudo-classes of `:active`, `:focus` and `:hover`.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
+### Day 36: 6 September, 2020
+
+**Today's Progress**: Learnt more on Bootstraps Components, especially Navs & NavBars and Dropdowns. Started work on a To-do App (what else would a first web project be!).
+
+**Thoughts**: Bootstrap has some Javascript dependencies, especially on jQuery, which makes me favour Bulma more as it's a pure CSS framework. Bootstrap is a lot more opinionated and compelex then I thought, with the docs offering a really in-depth explanation of all the components. I just wish there was a quicker way to pick up Bootstrap than going through these documentations.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 35: 5 September, 2020
 
 **Today's Progress**: Learnt more on Bootstraps Grid system, and familiarized with the various Components.
 
 **Thoughts**: Bootstrap seems to be useful for quickly mocking up a site what with only having to apply classes to common html elements go get a reasonable looking site, albeit a bit vanilla looking. Looking to create a dummy system with Bootstrap next.
 
-**Link to work:** 
-
 ### Day 34: 4 September, 2020
 
 **Today's Progress**: Learnt the basics of Bootstrap, most notably its Container and Grid system.
 
 **Thoughts**: As I'm already somewhat familiar with the Bootstrap system what with using MaterializeCSS for one of my projects before, learning more about how Bootstrap actually works with the Media Queries on the `min-width` and setting a set with for the container for two breakpoints was userful in understanding how to make a responsive layout.
-
-**Link to work:** 
 
 ### Day 33: 3 September, 2020
 
