@@ -2,6 +2,14 @@
 
 ### Day 37: 8 September, 2020
 
+**Today's Progress**: Continued working on the front-end of the To-do App, specifically the sidebar.
+
+**Thoughts**: The Collapse Bootstrap component combined with the Dropdown Bootstrap Toggle makes for a good way for a nested list.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
+### Day 37: 7 September, 2020
+
 **Today's Progress**: Continued working on the front-end of the To-do App.
 
 **Thoughts**: Learnt about the `outline` CSS property and the difference between that and `border`. Surprised to learn that Bootstrap has its own icon set in SVG too. Dove a bit more in-depth on the difference between the pseudo-classes of `:active`, `:focus` and `:hover`.
