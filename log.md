@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: 10 September, 2020
+
+**Today's Progress**: Continued working on the front-end of the To-do App, specifically, cleaning up some elements and applying some proper CSS.
+
+**Thoughts**: The `calc()` function is a way to get a sidebar to be only the length of the screen, by inputting 100vh - amount of the navigation bar. Learnt this trick from the bootstrap docs website.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 37: 8 September, 2020
 
 **Today's Progress**: Continued working on the front-end of the To-do App, specifically the sidebar.
