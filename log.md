@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 40: 12 September, 2020
+
+**Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the editable and add button.
+
+**Thoughts**: Learnt theat the Query Selector works with *any* selector, including more complicated ones such as the Descendent Combinator. VS Code also has a nifty feature where there will be a popup detailing an example of the CSS Selector (specific to the HTML element types entered, even!) when hovering over the CSS selector in the stylesheet.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
+### Day 39: 11 September, 2020
+
+**Today's Progress**: Continued working on the front-end of the To-do App, specifically the editing of heading.
+
+**Thoughts**: Learnt about the `contentEditable` attribute, along with accessing the `style` attributes programatically by going through the DOM.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 38: 10 September, 2020
 
 **Today's Progress**: Continued working on the front-end of the To-do App, specifically, cleaning up some elements and applying some proper CSS.
