@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 41: 14 September, 2020
+
+**Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the delete button and enable editing of line-items.
+
+**Thoughts**: Learnt about `pointer-events` for paths and how setting it to none affects allows the clickable area to be the parent container element instead of being able to click on the individual paths. Mostly brushed up on existing knowledge (`.remove()` methods)and implementing the delete feature. A surprising feature that I've learnt today is that the querySelector method is able to be run on any child element and not just the document! In hindsight, this should've obvious as all elements in the page are child of the Document interface.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 40: 12 September, 2020
 
 **Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the editable and add button.
