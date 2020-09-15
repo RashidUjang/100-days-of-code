@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 42: 15 September, 2020
+
+**Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the modals for the delete and adding a new list function.
+
+**Thoughts**: Learnt about the `checked` property. I'm wondering if there's a reason that if there is a `checked` attribute on an an `input` element, the value it holds is `checked` rather than true or false. Aside, not too happy with the use of a global variable to store the element that triggered the modal, and I am wondering if there are better ways to do it.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 41: 14 September, 2020
 
 **Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the delete button and enable editing of line-items.
