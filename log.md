@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 44: 17 September, 2020
+
+**Today's Progress**: Fixed the hover bug from yesterday and added the editing function to the item descriptions for the To-do App.
+
+**Thoughts**: Changing the `mouseover`/`mouseout` to `mouseenter`/`mouseleave` fixed the. I understand that it has something to do with event bubbling, but if I'm honest I do not fully grasp the concept yet. This will definitely be one of the topics study in my list of questions. The editing for the list items are also done similar to how the editing for the title was done (by focusing the element and then attaching an event listener upon blur). However, this would cause the code to run everytime a user clicks on the element and clicks away, which would be wasting cycles. This would be something to improve in the future.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
+### Day 43: 16 September, 2020
+
+**Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript adding the hover behaviour for the icon buttons and summary information.
+
+**Thoughts**: There persists a bug on the hovering behaviour that will cause it to flicker whenever the user hovers over the icon's container element. Other than that, the summary information seems to be working fine, but again I am using a global variable to store the checked and total values and again am wondering if there are alternatives.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 42: 15 September, 2020
 
 **Today's Progress**: Continued working on the front-end scripting of the To-do App, specifically the Javascript to handle the modals for the delete and adding a new list function.
 
-**Thoughts**: Learnt about the `checked` property. I'm wondering if there's a reason that if there is a `checked` attribute on an an `input` element, the value it holds is `checked` rather than true or false. Aside, not too happy with the use of a global variable to store the element that triggered the modal, and I am wondering if there are better ways to do it.
+**Thoughts**: Learnt about the `checked` property. I'm wondering if there's a reason that if there is a `checked` attribute on an `input` element, the value it holds is `checked` rather than true or false. Aside, not too happy with the use of a global variable to store the element that triggered the modal, and I am wondering if there are better ways to do it.
 
 **Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
 
