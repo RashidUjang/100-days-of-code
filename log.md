@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 45: 18 September, 2020
+
+**Today's Progress**: Changed the look and feel of the checkbox and disabled the ability to press enter when editing any text for the To-do App.
+
+**Thoughts**: CSS variables and SASS make life a lot easier when writing CSS code. Targeting modern browsers is of course the best developer experience what with all the enhancements in methods that are available to be used, but older browsers need some loving too (hence the fallback values and `@support`).
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 44: 17 September, 2020
 
 **Today's Progress**: Fixed the hover bug from yesterday and added the editing function to the item descriptions for the To-do App.
