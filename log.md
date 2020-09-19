@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 46: 19 September, 2020
+
+**Today's Progress**: Fixed the sidebar height and have it and the navbar fixed when scrolling for the Todo-App
+
+**Thoughts**: Using `position:fixed` in CSS removes it from the normal document, which can cause some weirdness and overlaps when writing existing code. In this case, putting in the right margins for the content aligns the content correctly.
+
+**Link to work:** [To-do App](https://github.com/RashidUjang/todo-app)
+
 ### Day 45: 18 September, 2020
 
 **Today's Progress**: Changed the look and feel of the checkbox and disabled the ability to press enter when editing any text for the To-do App.
