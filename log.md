@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 47: 20 September, 2020
+
+**Today's Progress**: Started reading on asynchronous Javascript as preparation to learn Node.js.
+
+**Thoughts**: Asynchronous Javascript is interesting, with concepts like `Promises` and `Web Workers`. It is refreshing to learn about concurrency and how a piece of code gets executed rather than simply how something can and ought to be built.
+
+**Link to work:** [Asynchronous Javascript on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+
 ### Day 46: 19 September, 2020
 
 **Today's Progress**: Fixed the sidebar height and have it and the navbar fixed when scrolling for the Todo-App
