@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 48: 21 September, 2020
+
+**Today's Progress**: Continued reading the MDN docs on Asynchronous Javascript.
+
+**Thoughts**: Learnt about the `setTimeout()` and `setInterval()` functions in Javascript. An interesting concept learnt today is the existence of the **event loop** in Javascript, which is things that will execute only when the main thread of Javascript has finished executing. Apparently it is a commonly used enoughconstruct in computer science that it is easy to find resource on it.
+
+**Link to work:** [Timeouts and Intervals on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals)
+
 ### Day 47: 20 September, 2020
 
 **Today's Progress**: Started reading on asynchronous Javascript as preparation to learn Node.js.
