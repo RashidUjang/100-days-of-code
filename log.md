@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 50: 23 September, 2020
+
+**Today's Progress**: Revised on the concept of Promises and went through the `async` and `await` features in Javascript.
+
+**Thoughts**: Async and await applies synchronous paradigms to asynchronous codes, which sounds pointless but it's not and it's important I *promise*! Given that I've already finished all the asynchronous modules in MDN, the next session would be getting my hands dirty with Node.js.
+
+**Link to work:** [Async & Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+
 ### Day 49: 22 September, 2020
 
 **Today's Progress**: Continued reading the MDN docs on Asynchronous Javascript, specifically on Promises.
 
 **Thoughts**: Promises, a concept introduced in ES6, is a powerful and elegant way in handling asynchronous code. From having to deal with multiple callbacks, using the `.then()` keyword is a much more readable way of expressing chained asynchronous operations. This is definitely a broad topic and one that I will definitely have to master before diving into node.js.
 
-**Link to work:** [Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+**Link to work:** [Promises on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
 
 ### Day 48: 21 September, 2020
 
