@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 52: 27 September, 2020
+
+**Today's Progress**: Continued learning Node.js from the Eloquent Javascript book.
+
+**Thoughts**: Learnt about the Filesystem, HTTP and Streaming modules. Back-end programming is a much different paradigm than front-end programming where browser technologies are favourted as opposed to back-end where much more of the knowledge I have on basic computer science topics such as processes, threads, networking and the concept of streams. I've decided that the next application to be done is another common app: **budgeting app**.
+
+**Link to work:** -
+
+### Day 51: 26 September, 2020
+
+**Today's Progress**: Started learning Node.js from the Eloquent Javascript book.
+
+**Thoughts**: Currently reading the 3rd edition, there is a chapter on Node. Learnt the basic concept of Node (Javascript run-time that is single-threaded and based on Google's V8 engine), how it handles I/O and Events, and how it uses the CommonJS style of modules.
+
+**Link to work:** -
+
 ### Day 50: 23 September, 2020
 
 **Today's Progress**: Revised on the concept of Promises and went through the `async` and `await` features in Javascript.
