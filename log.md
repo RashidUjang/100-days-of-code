@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 53: 28 September, 2020
+
+**Today's Progress**: Continued learning Node.js from the Eloquent Javascript book.
+
+**Thoughts**: The Eloquent Javascript book has me creating a HTTP fileserver from scratch, which is not an easy task and explains the various comments left in the files. Some new things I've learnt today is the concept of `stream.pipe()`, some nifty differences between `{}` and `Object.create(null)` and piece of code that stores corresponding functions into an object that when, depending on key that is used on the methods object, will make the handler function that calls the object call a different function.
+
+**Link to work:** [Node.js Fileserver](https://github.com/RashidUjang/node-fileserver)
+
 ### Day 52: 27 September, 2020
 
 **Today's Progress**: Continued learning Node.js from the Eloquent Javascript book.
