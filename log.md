@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 54: 30 September, 2020
+
+**Today's Progress**: Brushed up on `async` and `await` keywords in Javascript and continued learning Node.js from the Eloquent Javascript book.
+
+**Thoughts**: Back-end programming is a lot more interesting than I thought! Learnt about the `Stats` object in Node.js, MIME types, `url.parse()` and `path.resolve()` and I'm even amazed `path.sep` is even a thing, where the separator of path segments will be correctly entered into the path, depdending on whether you're on Windows or a POSIX based system.
+
+**Link to work:** [Node.js Fileserver](https://github.com/RashidUjang/node-fileserver)
+
 ### Day 53: 28 September, 2020
 
 **Today's Progress**: Continued learning Node.js from the Eloquent Javascript book.
