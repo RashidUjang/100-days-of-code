@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 55: 1 October, 2020
+
+**Today's Progress**: Implemented the method.DELETE & method.PUT for the Node.js fileserver.
+
+**Thoughts**: Learning how to handle requests has been an unexpectedly complex experience. Currently looking into studying the Stream and the related Event paradigms in Node.js more, as the fileserver makes heavy use of the `createReadStream()` and `createWriteStream()` methods.
+
+**Link to work:** [Node.js Fileserver](https://github.com/RashidUjang/node-fileserver)
+
 ### Day 54: 30 September, 2020
 
 **Today's Progress**: Brushed up on `async` and `await` keywords in Javascript and continued learning Node.js from the Eloquent Javascript book.
@@ -20,7 +28,7 @@
 
 **Today's Progress**: Continued learning Node.js from the Eloquent Javascript book.
 
-**Thoughts**: Learnt about the Filesystem, HTTP and Streaming modules. Back-end programming is a much different paradigm than front-end programming where browser technologies are favourted as opposed to back-end where much more of the knowledge I have on basic computer science topics such as processes, threads, networking and the concept of streams. I've decided that the next application to be done is another common app: **budgeting app**.
+**Thoughts**: Learnt about the Filesystem, HTTP and Stream modules. Back-end programming is a much different paradigm than front-end programming where browser technologies are favourted as opposed to back-end where much more of the knowledge I have on basic computer science topics such as processes, threads, networking and the concept of streams. I've decided that the next application to be done is another common app: **budgeting app**.
 
 **Link to work:** -
 
