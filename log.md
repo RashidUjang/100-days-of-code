@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 56: 2 October, 2020
+
+**Today's Progress**: Started learning one of Node's most popular Express using Coding Train's tutorial video.
+
+**Thoughts**: Learning an abstraction of a piece of code after learning the hard way of doing it is refreshing. Simply calling `app.post()` for the methods to handle the POST methods rather than defining handler methods for each method type manually puts more emphasis on the logic rather than handling structural cruft.
+
+**Link to work:** [Coding Train's Express ](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
+
 ### Day 55: 1 October, 2020
 
 **Today's Progress**: Implemented the method.DELETE & method.PUT for the Node.js fileserver.
