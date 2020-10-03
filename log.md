@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 57: 3 October, 2020
+
+**Today's Progress**: Finished the Coding Train's tutorial up to the database and dove deeper into Node.js `Streams`.
+
+**Thoughts**: Streams used mostly for I/O and network operations and can be manipulated with the events. Looking at using PostgreSQL as the database for the upcoming Node.js App.
+
+**Link to work:** [Coding Train's Express ](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
+
 ### Day 56: 2 October, 2020
 
 **Today's Progress**: Started learning one of Node's most popular Express using Coding Train's tutorial video.
