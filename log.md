@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 59: 5 October, 2020
+
+**Today's Progress**: Worked on setting up [Bulma](https://bulma.io/) as the front-end framework of the Sankeymatic.
+
+**Thoughts**: Solved a bug on getting CSS files to work in a Node.js environment by linking the file virtually instead of providing the actual path. Also learnt the `path.join()` method, which joins the paths using the platform-specific path separator and the `__dirname` global, which points to the currently executing process's path. Learnt Bulm
+
+**Link to work:** [Budget App]()
+
+### Day 58: 4 October, 2020
+
+**Today's Progress**: Started performing groundwork on adapting the Sankey budget generator from [Sankeymatic](https://github.com/nowthis/sankeymatic) to be the first component of the Budget App.
+
+**Thoughts**: Diagrammed the flow of the Sankeymatic function and thank god for the amount of comments in that repo. 
+
+**Link to work:** -
+
 ### Day 57: 3 October, 2020
 
 **Today's Progress**: Finished the Coding Train's tutorial up to the database and dove deeper into Node.js `Streams`.
 
 **Thoughts**: Streams used mostly for I/O and network operations and can be manipulated with the events. Looking at using PostgreSQL as the database for the upcoming Node.js App.
 
-**Link to work:** [Coding Train's Express ](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
+**Link to work:** [Coding Train's Express](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
 
 ### Day 56: 2 October, 2020
 
@@ -14,7 +30,7 @@
 
 **Thoughts**: Learning an abstraction of a piece of code after learning the hard way of doing it is refreshing. Simply calling `app.post()` for the methods to handle the POST methods rather than defining handler methods for each method type manually puts more emphasis on the logic rather than handling structural cruft.
 
-**Link to work:** [Coding Train's Express ](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
+**Link to work:** [Coding Train's Express](https://www.youtube.com/watch?v=Kw5tC5nQMRY&ab_channel=TheCodingTrain)
 
 ### Day 55: 1 October, 2020
 
