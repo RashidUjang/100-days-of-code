@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 60: 6 October, 2020
+
+**Today's Progress**: Set up the other dependencies required by Sankeymatic for the Budget App.
+
+**Thoughts**: When trying to use `npm` as much as possible for managing packages, something I've learnt today is to be careful with using it as the package manager for your front-end package as it's possible for the packages to not be what you expect. Setting up the paths virtually using Express's `app.use()` to serve the files makes things simpler. CommonJS is also not available by default in the browsers. Next, I'll begin piecing up the Sankeymatic funcitons to be used in my own Javascript files. Makes me wonder if I should be forking the Sankeymatic project instead as I'll be using most of the components.
+
+**Link to work:** [Budget App]()
+
 ### Day 59: 5 October, 2020
 
 **Today's Progress**: Worked on setting up [Bulma](https://bulma.io/) as the front-end framework of the Sankeymatic.
 
-**Thoughts**: Solved a bug on getting CSS files to work in a Node.js environment by linking the file virtually instead of providing the actual path. Also learnt the `path.join()` method, which joins the paths using the platform-specific path separator and the `__dirname` global, which points to the currently executing process's path. Learnt Bulm
+**Thoughts**: Solved a bug on getting CSS files to work in a Node.js environment by linking the file virtually instead of providing the actual path. Also learnt the `path.join()` method, which joins the paths using the platform-specific path separator and the `__dirname` global, which points to the currently executing process's path. Learnt the basics of Bulma classes too.
 
 **Link to work:** [Budget App]()
 
