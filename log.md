@@ -1,12 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 62: 10 October, 2020
+
+**Today's Progress**: Added the front-end code for the Add items functionality of the Budget App.
+
+**Thoughts**: Reused some of the code from the previously made [To-do App](https://github.com/RashidUjang/todo-app) for the addition of items in a list. As the list now would seem to have parent and child relationships between each other and maintain its own category, trees would probably need to be used and to maintain a more robust data structure. Something I need to research before diving in the recursive behaviour of the tree.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+### Day 62: 9 October, 2020
+
+**Today's Progress**: Attempted to split the modules for the Budget App.
+
+**Thoughts**: Decided to fork the Sankeymatic project as I will be reusing most of the code and modularize it. However, currently unsuccessful in trying to split the utility functions and dealing with `import` & `export` functions from the main js file to a module js file.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+### Day 61: 8 October, 2020
+
+**Today's Progress**: Attempted to split the modules for the Budget App.
+
+**Thoughts**: Decided to fork the Sankeymatic project as I will be reusing most of the code and modularize it. However, currently unsuccessful in trying to split the utility functions and dealing with `import` & `export` functions from the main js file to a module js file.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 60: 6 October, 2020
 
 **Today's Progress**: Set up the other dependencies required by Sankeymatic for the Budget App.
 
-**Thoughts**: When trying to use `npm` as much as possible for managing packages, something I've learnt today is to be careful with using it as the package manager for your front-end package as it's possible for the packages to not be what you expect. Setting up the paths virtually using Express's `app.use()` to serve the files makes things simpler. CommonJS is also not available by default in the browsers. Next, I'll begin piecing up the Sankeymatic funcitons to be used in my own Javascript files. Makes me wonder if I should be forking the Sankeymatic project instead as I'll be using most of the components.
+**Thoughts**: When trying to use `npm` as much as possible for managing packages, something I've learnt today is to be careful with using it as the package manager for your front-end package as it's possible for the packages to not be what you expect. Setting up the paths virtually using Express's `app.use()` to serve the files makes things simpler. CommonJS is also not available by default in the browsers. Next, I'll begin piecing up the Sankeymatic functions to be used in my own Javascript files. Makes me wonder if I should be forking the Sankeymatic project instead as I'll be using most of the components.
 
-**Link to work:** [Budget App]()
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
 ### Day 59: 5 October, 2020
 
@@ -14,7 +38,7 @@
 
 **Thoughts**: Solved a bug on getting CSS files to work in a Node.js environment by linking the file virtually instead of providing the actual path. Also learnt the `path.join()` method, which joins the paths using the platform-specific path separator and the `__dirname` global, which points to the currently executing process's path. Learnt the basics of Bulma classes too.
 
-**Link to work:** [Budget App]()
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
 ### Day 58: 4 October, 2020
 
