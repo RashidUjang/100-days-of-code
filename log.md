@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 63: 11 October, 2020
+
+**Today's Progress**: Worked on the front-end for the Budget App.
+
+**Thoughts**: Successfully split modularized sankeymatic.js into util.js. There are several improvements that can be made to the sankeymatic code (using using the `async` keyword to trigger the rendering asynchronously and detect onchange programatically instead of using a HTML attribute) but I think the highest priority now is to ensure that the Generate button is able to spit out a Sankey diagram using the previous input styles to ensure the code is still working fine. Then perhaps I will move on to changing the input styles.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 62: 10 October, 2020
 
 **Today's Progress**: Added the front-end code for the Add items functionality of the Budget App.
