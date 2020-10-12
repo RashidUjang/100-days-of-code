@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 64: 12 October, 2020
+
+**Today's Progress**: Worked on getting the existing Budget App code to work wite Node.js.
+
+**Thoughts**: Attempting to rewrite `d3.scale.category20()` with new code as it had changed since d3.v3 (Sankeymatic uses v2) and the project is currently using d3.v6 as described [here](https://github.com/d3/d3/blob/master/CHANGES.md#scales-d3-scale). Learnt about ordinal scales and currently looking into replacing the color by using the new method described in the changes article with `d3-scale-chromatic`. Perhaps for the sake of moving the project, the colors of the graph could be set to only one colour by setting `node.color` be a single colour instead of accessing `d3_color_scale`.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 63: 11 October, 2020
 
 **Today's Progress**: Worked on the front-end for the Budget App.
