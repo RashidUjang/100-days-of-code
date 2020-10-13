@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 65: 13 October, 2020
+
+**Today's Progress**: Worked on getting the existing Budget App code to work wite Node.js.
+
+**Thoughts**: Learnt about Ordinal Scales in d3, which can be accessed using the `.range()` and `.domain()` method. As this is already the third day in trying to glue Sankeymatic's code with the d3.js and I am currently looking to focus more on adding features and making progress on the Budgeting App, I've decided it is best to stash the work done on fixing the compatibility issues in the code and to revert to the d3.js v2. The goal of this exercise to learn things well and having to learn the complex d3.js along with Node.js and Bulma would simply slow my learning. From the next hour onwards, I will focus more on adding better UX while upgrading d3.js to v6 will be ticketed as a nice-to-have item and catered in the future where I can fully understand d3.js before implementing in the code.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 64: 12 October, 2020
 
 **Today's Progress**: Worked on getting the existing Budget App code to work wite Node.js.
 
-**Thoughts**: Attempting to rewrite `d3.scale.category20()` with new code as it had changed since d3.v3 (Sankeymatic uses v2) and the project is currently using d3.v6 as described [here](https://github.com/d3/d3/blob/master/CHANGES.md#scales-d3-scale). Learnt about ordinal scales and currently looking into replacing the color by using the new method described in the changes article with `d3-scale-chromatic`. Perhaps for the sake of moving the project, the colors of the graph could be set to only one colour by setting `node.color` be a single colour instead of accessing `d3_color_scale`.
+**Thoughts**: Attempting to rewrite `d3.scale.category20()` with new code as it had changed since d3.js v3 (Sankeymatic uses v2) and the project is currently using d3.js v6 as described [here](https://github.com/d3/d3/blob/master/CHANGES.md#scales-d3-scale). Learnt about ordinal scales and currently looking into replacing the color by using the new method described in the changes article with `d3-scale-chromatic`. Perhaps for the sake of moving the project, the colors of the graph could be set to only one colour by setting `node.color` be a single colour instead of accessing `d3_color_scale`.
 
 **Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
