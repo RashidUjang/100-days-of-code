@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 67: 16 October, 2020
+
+**Today's Progress**: Changed the Add button for Income and Expense to become a modal instead of a duplicating an element.
+
+**Thoughts**: Loving Bulma more and more over Bootstrap the more I use it. It being just a CSS framework and modernizing what Bootstrap set out to do by ensuring the implementation is even simpler (check out the `columns` implementation!). I now realize this is a much bigger project than the scope of the To-do App previously, but definitely one where I'm excited to work on everyday.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 66: 15 October, 2020
 
 **Today's Progress**: Got the current version of Sankeymatic working with Node.js.
