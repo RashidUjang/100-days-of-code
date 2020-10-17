@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 68: 17 October, 2020
+
+**Today's Progress**: Changed the listing form to table and handled the closing of the popup for Budget App.
+
+**Thoughts**: Pretty standard stuff today. Again, just wondering what is the best way to organize the code for Javascript handlers, whether to put all the DOM retrievals in one block, functions in one block or to segregate by feature. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 67: 16 October, 2020
 
 **Today's Progress**: Changed the Add button for Income and Expense to become a modal instead of a duplicating an element.
 
-**Thoughts**: Loving Bulma more and more over Bootstrap the more I use it. It being just a CSS framework and modernizing what Bootstrap set out to do by ensuring the implementation is even simpler (check out the `columns` implementation!). I now realize this is a much bigger project than the scope of the To-do App previously, but definitely one where I'm excited to work on everyday.
+**Thoughts**: Loving Bulma more and more over Bootstrap the more I use it. It being just a CSS framework and modernizing what Bootstrap set out to do by ensuring the implementation is even simpler (check out the `columns` implementation!) makes it much simpler and easier to use, especially with how intuitive some of the classes are. I now realize this is a much bigger project than the scope of the To-do App previously, but definitely one where I'm excited to work on everyday.
 
 **Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
