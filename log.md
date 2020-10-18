@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 69: 18 October, 2020
+
+**Today's Progress**: Standardized expenses to listing format and started work on programatically loading the listing for Budget App.
+
+**Thoughts**: There's some really gnarly code in the programatically loading. Currently, the categories are simply strings but I have plans on having a mapping table and using IDs instead. Need to start looking into setting up PostgreSQL and hooking up to Node.js and start taking the tree structure into account for the DB schema.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 68: 17 October, 2020
 
 **Today's Progress**: Changed the listing form to table and handled the closing of the popup for Budget App.
