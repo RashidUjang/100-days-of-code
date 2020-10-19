@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 70: 19 October, 2020
+
+**Today's Progress**: Worked on the front-end of the input style and listing features for Budget App.
+
+**Thoughts**: The `.toggle()` method for `classList` is really convenient. Planning to use Bulma's helper/utility classes to perform as much front-end as possible, instead of programatically hiding the element from the DOM.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 69: 18 October, 2020
 
 **Today's Progress**: Standardized expenses to listing format and started work on programatically loading the listing for Budget App.
 
-**Thoughts**: There's some really gnarly code in the programatically loading. Currently, the categories are simply strings but I have plans on having a mapping table and using IDs instead. Need to start looking into setting up PostgreSQL and hooking up to Node.js and start taking the tree structure into account for the DB schema.
+**Thoughts**: There's some really gnarly code in the programatically loading of the list that can turn into tech debt, but I'm going to live with it for now as my primary purpose is to ensure the new input style would work. Currently, the categories are simply strings but I have plans on having a mapping table and using IDs instead. Need to start looking into setting up PostgreSQL and hooking up to Node.js and start taking the tree structure into account for the DB schema.
 
 **Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
