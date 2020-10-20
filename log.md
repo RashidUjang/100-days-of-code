@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 71: 20 October, 2020
+
+**Today's Progress**: Worked on the front-end of the Budget App.
+
+**Thoughts**: In preparation for the actual backend, I've started trying to load the options programatically. Currently the roadblock seems to be what I want the structure of the node. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 70: 19 October, 2020
 
 **Today's Progress**: Worked on the front-end of the input style and listing features for Budget App.
