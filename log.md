@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 72: 21 October, 2020
+
+**Today's Progress**: Worked on the front-end of the Budget App.
+
+**Thoughts**: Added the toast adding to the income and expense list functionality. Also made the `closePopup()` function to be generalized and able to open/close the popup even if it is not in the listener. Also added the success notifictation upon the success of an addition to the list. Fixed the model to also only have a `parentNodeID` but the category to be a name instead of an ID. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 71: 20 October, 2020
 
 **Today's Progress**: Worked on the front-end of the Budget App.
 
-**Thoughts**: In preparation for the actual backend, I've started trying to load the options programatically. Currently the roadblock seems to be what I want the structure of the node. 
+**Thoughts**: In preparation for the actual backend, I've started trying to load the options programatically. Currently the roadblock seems to be what I want the structure of the node to be. 
 
 **Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
 
