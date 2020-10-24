@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 74: 24 October, 2020
+
+**Today's Progress**: Worked on the front-end of the Budget App.
+
+**Thoughts**: Finally got the app to work with own input! Granted, there are still many things to be done but this a win that should still be celebrated as it is the first major enhancement made to the original Sankeymatic. Next would be to actually link it to a database, so it doesn't become a blocker for future features and enhancement. Some refactors are needed though, especially in passing the inputs to the `process_sankey()` function.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+### Day 73: 23 October, 2020
+
+**Today's Progress**: Worked on the front-end of the Budget App.
+
+**Thoughts**: Attempted and identified the areas to change to enable the budget-style of input. Most of it was sifting through the code to find that all that needs to be done is to push the good flows in the proper format to the `good_flows` array.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 72: 21 October, 2020
 
 **Today's Progress**: Worked on the front-end of the Budget App.
