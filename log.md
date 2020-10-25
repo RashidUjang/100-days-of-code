@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 75: 25 October, 2020
+
+**Today's Progress**: Worked on setting up the Linux environment and connection to PostgreSQL for the backend.
+
+**Thoughts**: Set up the environment on Linux, mostly due to the ease of use with PostgreSQL and Docker. One thing to point out during the setting up of these environments is how easy it is `npm` has made to sync packages between development environments and that it "Just Works™" out of the box. Currently still setting up PostgreSQL and learning its CLI with the `psql` command as there are certain prerequisites that need to be set up before it can function and linked properly. Planning to follow [this](https://www.youtube.com/watch?v=ldYcgPKEZC8&ab_channel=freeCodeCamp.org) tutorial here, outlining the steps in creating a basic PERN stack app.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ### Day 74: 24 October, 2020
 
 **Today's Progress**: Worked on the front-end of the Budget App.
