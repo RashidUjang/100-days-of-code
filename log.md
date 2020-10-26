@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 76: 26 October, 2020
+
+**Today's Progress**: Created the Budget App database and table.
+
+**Thoughts**: Found out the cause of the previous issue of not being to find the proper role: it's actually not about roles in Postgres and more about users in Linux! I've learnt that the `sudo` command for Ubuntu is used mainly to run certain commands as other users, which when you run the `psql` command as the default postgres user it works flawlessly. Next activity is to actually define the schema as we have in the mock database.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 75: 25 October, 2020
 
 **Today's Progress**: Worked on setting up the Linux environment and connection to PostgreSQL for the backend.
