@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 77: 27 October, 2020
+
+**Today's Progress**: Defined the database schema in PostgreSQL for the Budget App.
+
+**Thoughts**: A blast of nostalgia just hit me when applying all these concepts learned in my first-year engineering classes! Working with databases is great fun and I find it rewarding when creating and maintaining a well designed schema that can make it long-lived and robust. Up next is to connect the database to Node.js using the [pg](https://www.npmjs.com/package/pg) package.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 76: 26 October, 2020
 
 **Today's Progress**: Created the Budget App database and table.
