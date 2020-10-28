@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 78: 28 October, 2020
+
+**Today's Progress**: Created some dummy data and setup database connection for Budget App.
+
+**Thoughts**: Learnt about the connection pooling concept as the `pg` library had to setup that. Also learnt how to manage users using PostgreSQL and refresh on the `INSERT` statement to create the dummy data. Looking forward to actually store and retrieve data from the front-end using the available database connection.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 77: 27 October, 2020
 
 **Today's Progress**: Defined the database schema in PostgreSQL for the Budget App.
