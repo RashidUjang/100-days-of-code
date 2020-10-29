@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 79: 29 October, 2020
+
+**Today's Progress**: Added handling of POST requests for Budget App.
+
+**Thoughts**: Had to brush up some concepts such as `async`, `await` and learnt about the `req` and `res` objects from the Express frameworks. They're simply implementations of the `IncomingMessage` and `ServerResponse` classes in Node.js. Successfully implemented the handling of POST requests for the record type.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 78: 28 October, 2020
 
 **Today's Progress**: Created some dummy data and setup database connection for Budget App.
