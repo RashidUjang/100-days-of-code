@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 80: 30 October, 2020
+
+**Today's Progress**: Completed the CRUD operations via RESTful API in Express.
+
+**Thoughts**: Similar to handling the `GET` requests, today's work has been on handling the `POST`, `PUT` and `DELETE` and its corresponding SQL operations of `INSERT`, `UPDATE` and `DELETE` respectively. The CRUD operations is now complete and the what we have now is a RESTful API on the `records` table.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 79: 29 October, 2020
 
 **Today's Progress**: Added handling of POST requests for Budget App.
