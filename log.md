@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 81: 31 October, 2020
+
+**Today's Progress**: Created a script to refresh the DB with mock data and hooked up the front-end code by calling the API.
+
+**Thoughts**: Finally able to see some visual progress on connecting the database to the front-end! Used the `fetch()` API to trigger the requests. It's obvious to me why the technical design of a certain piece of software is important. While badly-designed API/layers/database schema may get the job done in terms of functionality, it sure makes changing things much more difficult in the future. It's all part of dealing with complexity.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 80: 30 October, 2020
 
 **Today's Progress**: Completed the CRUD operations via RESTful API in Express.
