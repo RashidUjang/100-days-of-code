@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 82: 1 November, 2020
+
+**Today's Progress**: Rewrote the code for both the category and record API in a single function instead of two separate functions.
+
+**Thoughts**: Learnt using `Promise.all()` in handling multiple `.fetch()` instances, and how ANOTHER `Promise.all()` is required when parsing the `Response` object using the `.json()` method as it returns a Promise instead of the actual parsed json (thanks to [this](https://gomakethings.com/waiting-for-multiple-all-api-responses-to-complete-with-the-vanilla-js-promise.all-method/) article for providing a clear example on the use-case!). This took an embarrasingly long time to figure out but this has been a great refresher on Promises and how it works.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 81: 31 October, 2020
 
 **Today's Progress**: Created a script to refresh the DB with mock data and hooked up the front-end code by calling the API.
