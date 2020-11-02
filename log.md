@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 83: 2 November, 2020
+
+**Today's Progress**: Completed the category matching according to id for primary categories.
+
+**Thoughts**: Found out that `.forEach()` doesn't support the `return` keyword as it's a delegated function. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 82: 1 November, 2020
 
 **Today's Progress**: Rewrote the code for both the category and record API in a single function instead of two separate functions.
