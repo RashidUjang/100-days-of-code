@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 84: 3 November, 2020
+
+**Today's Progress**: Handled the parent category id case.
+
+**Thoughts**: Added an indicator to the function to perform `matchCategory()` and recursively called `matchCategory()` inside to handle the parent category function. I still cannot commit this code though as there seems to be a regression bug which I have to fix first.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 83: 2 November, 2020
 
 **Today's Progress**: Completed the category matching according to id for primary categories.
