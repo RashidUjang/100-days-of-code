@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 85: 4 November, 2020
+
+**Today's Progress**: Fixed the regression bug raised by adding the `record_type` indicator in the record data structure.
+
+**Thoughts**: Although the bug has been fixed, (mostly by ensuring the data structure from the general-style and budget-style input are absolutely the same) I am actually left with more questions than answers from the exercise. One of my biggest questions is whether or not importing/exporting values between my `sankeymatic.js`, `main.js` and `util.js` files is a good idea? It seems that it is necessary, however it creates a web of dependency which from my time reading HN, is almost never a good idea. Another is on whether it is considered good practice to have an `export` statement in the `.onload()` function so that we are guaranteed to be able to accessed the fetched value from the DB or whether putting it at the end of the file is enough.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 84: 3 November, 2020
 
 **Today's Progress**: Handled the parent category id case.
