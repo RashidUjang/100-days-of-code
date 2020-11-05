@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 86: 5 November, 2020
+
+**Today's Progress**: Started linking the add feature to the backend.
+
+**Thoughts**: Learnt a new method, which is `JSON.stringify()`, which is used to convert objects in Javascript to a single JSON string to be used in the body. I will need to rethink of some enhancements to the add modal itself so as to make sure it adheres to the data structures that I have defined, namely the parent node field.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 85: 4 November, 2020
 
 **Today's Progress**: Fixed the regression bug raised by adding the `record_type` indicator in the record data structure.
