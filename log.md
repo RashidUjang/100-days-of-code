@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 87: 6 November, 2020
+
+**Today's Progress**: Continued working on the add feature.
+
+**Thoughts**: A lot of places to change in the code, especially in the modal popup where the checking and handling of new categories needs to be done, which results in a new API needed in the backend to handle such cases. This feature is incomplete as of now, though. Also learnt about the `.some()` method on arrays which is handy for checking existence.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 86: 5 November, 2020
 
 **Today's Progress**: Started linking the add feature to the backend.
