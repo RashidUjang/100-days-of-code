@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 88: 7 November, 2020
+
+**Today's Progress**: Continued working on the add feature.
+
+**Thoughts**: Had to rethink some of the ideas that was implemented yesterday. The `checkCategory()` function should now check from the local list instead of the backend, and the checking to be done by name instead ID.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 87: 6 November, 2020
 
 **Today's Progress**: Continued working on the add feature.
