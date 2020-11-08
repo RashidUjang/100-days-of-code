@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 89: 8 November, 2020
+
+**Today's Progress**: Learnt about media types and started debugging on the add feature.
+
+**Thoughts**: Quite a gnarly problem here that we have. After some time, trial and error using logging functions (I've learnt that the `catch` blocks should always be accompanied by a specific error message to know exactly where it failed!), I've narrowed it down to an async problem. Essentially, the `Promise` returned by `checkCategory()` is yet to be resolved when the code execution continues, ensuring that the DB only receives an empty value for the `categoryID`. Quickest fix would be to make `addNode()` async and have an await near the addNode code, but is that really the best way? 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 88: 7 November, 2020
 
 **Today's Progress**: Continued working on the add feature.
