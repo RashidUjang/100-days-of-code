@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 91: 10 November, 2020
+
+**Today's Progress**: Read up on some methods in keeping the table synced upon changes to it and started implementing the function to the delete button.
+
+**Thoughts**: Implemented the live reload simply by fetching the list at the relevant points (update, delete). This is of course not ideal as there is some wastage in cycles by doing this, but I will keep the efficiency to when I'm starting to use a Javascript framework. Also discovered a neat trick to remove all childs from a parent node [here](https://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript).
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 90: 9 November, 2020
+
+**Today's Progress**: Fixed the bug and successfully linked the add feature for both income and expenses to the backend.
+
+**Thoughts**: Decided to make `addNode()` async after all, though it is something that perhaps can be improved on in the future. The next challenge is refreshing the table upon successfully initiating any change.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 89: 8 November, 2020
 
 **Today's Progress**: Learnt about media types and started debugging on the add feature.
