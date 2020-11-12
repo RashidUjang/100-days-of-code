@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 93: 12 November, 2020
+
+**Today's Progress**: Completed working on the delete button.
+
+**Thoughts**: Turns out only a one-liner is required in enabling the delete button. Some bugs need to be fixed in regards to adding the category and enabling the parent category. A more thorough understanding of the inner workings of sankeymatic is required for this, which I am slowly beginning to understand.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 92: 11 November, 2020
+
+**Today's Progress**: Continued working on the delete button.
+
+**Thoughts**: One thing that I found would greatly benefit my project right now that is just simply not as easily doable with vanilla Javascript compared to using a front-end framework is by using the concept of row keys for tables. Without it, I am forced to insert an ID attribute to each of my table rows, which is functional, but I believe there are better ways to do it than this.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 91: 10 November, 2020
 
 **Today's Progress**: Read up on some methods in keeping the table synced upon changes to it and started implementing the function to the delete button.
