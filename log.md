@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 95: 14 November, 2020
+
+**Today's Progress**: Continued working on enabling parent nodes in the Sankeymatic flow.
+
+**Thoughts**: I've come to realize that a lot of programming is planning before writing a single line of code. Dealing with the many many possible scenarios for adding the parents and the amount of checks that must be done to ensure all of the flows are accounted for correctly is simply overwhelming to be done WHILE coding. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 94: 13 November, 2020
+
+**Today's Progress**: Started working on enabling parents of nodes inside the Sankeymatic flow.
+
+**Thoughts**: Working on enabling at least 1 level of parents first (meaning, only 2 levels as a whole), and generalizing it later. I'm also just now realizing that I could be using a more object-oriented approach for my data structure, as I found having certain utility methods on the data itself would be useful such as, having `.hasParents()` as a property of an object instead of a utility method. 
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 93: 12 November, 2020
 
 **Today's Progress**: Completed working on the delete button.
