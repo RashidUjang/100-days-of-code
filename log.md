@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+## Day 100: 19 November, 2020
+
+**Today's Progress**: Refactored notification handling for Budget App.
+
+**Thoughts**: Today is the last day of the challenge and marks the final piece of code that I will push in to this app, at least as part of this challenge. Though the app has much, much more work to be done, namely in terms of the UI, the support for, I think it has come a long way. From being able to enter self inputs and switch between the two styles of input, to actually hooking up the web app to PostgreSQL and Express, this has been an amazing learning experience and I am a much much more able coder than I was when I started this. Popular doctrine states that it really is not about the technology chosen and language choice but more on software architecture, business logic, requirements and data models & API design. These language/technology-agnostic things are the real core of software engineering, and coding for 100 days have taught me the value of such things where before it was unclear what the actual importance and benefit of these things are.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 99: 18 November, 2020
+
+**Today's Progress**: Cleared up unnecessary code for parents processing and created a script for resetting the table.
+
+**Thoughts**: It turns out the parents processing part is unnecessary if the user adds in to the table itself. For now, it will be commented out until the input system is finalized, for which it may be necessary at that time. Also create a utility script for resetting the table, which makes use of some new keywords which I learnt which is `TRUNCATE` and `SETVAL`.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 98: 17 November, 2020
+
+**Today's Progress**: Finished working on the parents processing part.
+
+**Thoughts**: One of the mistakes found is actually in naming convention, where an improperly named variable caused the key lookup in an object to return empty and thus, not to trigger that branch of the program. It's important to maintain consistent naming conventions (which I admit, in this project I am not doing so well as I am forking the project) so that these things do not happen.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 97: 16 November, 2020
+
+**Today's Progress**: Found the bug mentioned in the log of the previous day and started working on enabling the `amount` field to be sent into the `processingParents()` function.
+
+**Thoughts**: Turns out the bug was simply a `.push()` inserted in the wrong place. I think we can avoid this kind of logic mishaps in the future by actually formalizing the logic and writing it down somewhere.
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
+## Day 96: 15 November, 2020
+
+**Today's Progress**: Spent time trying debug the parent node
+
+**Thoughts**: So far unable to find what is the problem, but I've narrowed down to the new function that had been created in `parseGeneralInputToFlows()` but was unable to find the root cause
+
+**Link to work:** [Budget App](https://github.com/RashidUjang/sankeymatic)
+
 ## Day 95: 14 November, 2020
 
 **Today's Progress**: Continued working on enabling parent nodes in the Sankeymatic flow.
